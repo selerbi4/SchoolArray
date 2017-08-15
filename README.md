@@ -1,0 +1,2 @@
+# SchoolArray
+School thing array.
