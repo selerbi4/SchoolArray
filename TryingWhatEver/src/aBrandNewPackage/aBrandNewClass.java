@@ -43,7 +43,7 @@ public class aBrandNewClass {
 
             }
 
-        System.out.println("Would you like to see or verify the grades?");
+        System.out.println("Would you like to see or verify the grades?(Answer yes/no)");
         String yes = in.next();
         if (yes.contains("yes")) {
         for (int b=0;b<names.length;b++){
